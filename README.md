@@ -5,9 +5,7 @@ Designed and developed a personal portfolio website using HTML, CSS, and JavaScr
  - Sedicated Resume section for easy download or viewing
  - Contact form integration
 ##Technologies Used
- - HTML
- - CSS
- - JavaScript
+ 
 
 
  
